@@ -3,13 +3,13 @@
       {
      "select_main_ads": "FACEBOOK",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
       "main_ads_natives":"",
       "main_ads_rewards":"",
       "backup_ads_natives":"",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
       "backup_ads_rewards":"",
       "open_ads_admob":"",
       "open_ads_alien":"",
@@ -43,10 +43,64 @@
       {
       "id":1,
       "name":"Lana ❤️",
-      "image_url":"https://raw.githubusercontent.com/prankcallhub/30.addisonraefakevideocall/8b8e787f4307b01350e9d0825000b2ccbb6cc9e6/30.addisonraefakevideocall/HALU%201.png",
-      "video_url":"https://github.com/prankcallhub/kontennyadisini/blob/main/lanalove/video12.mp4?raw=true",
-      "voice_url":"https://github.com/prankcallhub/kontennyadisini/blob/main/lanalove/lana.MP3?raw=true"
-       } ,
+      "image_url":"https://github.com/prankcallhub/konten/blob/main/LANA%20RHOADES%20VIDEO%20CALL/LANA-RHOADES-pic1.jpg",
+      "video_url":"https://github.com/prankcallhub/konten/blob/main/LANA%20RHOADES%20VIDEO%20CALL/video12.mp4?raw=true",
+      "voice_url":"https://github.com/prankcallhub/konten/blob/main/LANA%20RHOADES%20VIDEO%20CALL/lana.MP3?raw=true"
+       } , {
+      "id":1,
+      "name":"Lana ❤️",
+      "image_url":"https://github.com/prankcallhub/konten/blob/main/LANA%20RHOADES%20VIDEO%20CALL/LANA-RHOADES-pic2.jpg",
+      "video_url":"https://github.com/prankcallhub/konten/blob/main/LANA%20RHOADES%20VIDEO%20CALL/video12.mp4?raw=true",
+      "voice_url":"https://github.com/prankcallhub/konten/blob/main/LANA%20RHOADES%20VIDEO%20CALL/lana.MP3?raw=true"
+       }, {
+      "id":1,
+      "name":"Lana ❤️",
+      "image_url":"https://github.com/prankcallhub/konten/blob/main/LANA%20RHOADES%20VIDEO%20CALL/LANA-RHOADES-pic3.jpg",
+      "video_url":"https://github.com/prankcallhub/konten/blob/main/LANA%20RHOADES%20VIDEO%20CALL/video12.mp4?raw=true",
+      "voice_url":"https://github.com/prankcallhub/konten/blob/main/LANA%20RHOADES%20VIDEO%20CALL/lana.MP3?raw=true"
+       }, {
+      "id":1,
+      "name":"Lana ❤️",
+      "image_url":"https://github.com/prankcallhub/konten/blob/main/LANA%20RHOADES%20VIDEO%20CALL/LANA-RHOADES-pic4.jpg",
+      "video_url":"https://github.com/prankcallhub/konten/blob/main/LANA%20RHOADES%20VIDEO%20CALL/video12.mp4?raw=true",
+      "voice_url":"https://github.com/prankcallhub/konten/blob/main/LANA%20RHOADES%20VIDEO%20CALL/lana.MP3?raw=true"
+       }, {
+      "id":1,
+      "name":"Lana ❤️",
+      "image_url":"https://github.com/prankcallhub/konten/blob/main/LANA%20RHOADES%20VIDEO%20CALL/LANA-RHOADES-pic5.jpg",
+      "video_url":"https://github.com/prankcallhub/konten/blob/main/LANA%20RHOADES%20VIDEO%20CALL/video12.mp4?raw=true",
+      "voice_url":"https://github.com/prankcallhub/konten/blob/main/LANA%20RHOADES%20VIDEO%20CALL/lana.MP3?raw=true"
+       }, {
+      "id":1,
+      "name":"Lana ❤️",
+      "image_url":"https://github.com/prankcallhub/konten/blob/main/LANA%20RHOADES%20VIDEO%20CALL/LANA-RHOADES-pic6.jpg",
+      "video_url":"https://github.com/prankcallhub/konten/blob/main/LANA%20RHOADES%20VIDEO%20CALL/video12.mp4?raw=true",
+      "voice_url":"https://github.com/prankcallhub/konten/blob/main/LANA%20RHOADES%20VIDEO%20CALL/lana.MP3?raw=true"
+       }, {
+      "id":1,
+      "name":"Lana ❤️",
+      "image_url":"https://github.com/prankcallhub/konten/blob/main/LANA%20RHOADES%20VIDEO%20CALL/LANA-RHOADES-pic7.jpg",
+      "video_url":"https://github.com/prankcallhub/konten/blob/main/LANA%20RHOADES%20VIDEO%20CALL/video12.mp4?raw=true",
+      "voice_url":"https://github.com/prankcallhub/konten/blob/main/LANA%20RHOADES%20VIDEO%20CALL/lana.MP3?raw=true"
+       }, {
+      "id":1,
+      "name":"Lana ❤️",
+      "image_url":"https://github.com/prankcallhub/konten/blob/main/LANA%20RHOADES%20VIDEO%20CALL/LANA-RHOADES-pic8.jpg",
+      "video_url":"https://github.com/prankcallhub/konten/blob/main/LANA%20RHOADES%20VIDEO%20CALL/video12.mp4?raw=true",
+      "voice_url":"https://github.com/prankcallhub/konten/blob/main/LANA%20RHOADES%20VIDEO%20CALL/lana.MP3?raw=true"
+       }, {
+      "id":1,
+      "name":"Lana ❤️",
+      "image_url":"https://parra.nu/wp-content/uploads/2021/01/804_450.jpg",
+      "video_url":"https://github.com/prankcallhub/konten/blob/main/LANA%20RHOADES%20VIDEO%20CALL/video12.mp4?raw=true",
+      "voice_url":"https://github.com/prankcallhub/konten/blob/main/LANA%20RHOADES%20VIDEO%20CALL/lana.MP3?raw=true"
+       }, {
+      "id":1,
+      "name":"Lana ❤️",
+      "image_url":"https://e1.pxfuel.com/desktop-wallpaper/165/677/desktop-wallpaper-lana-rhoades-selfie-lana-rhoades-phone.jpg",
+      "video_url":"https://github.com/prankcallhub/konten/blob/main/LANA%20RHOADES%20VIDEO%20CALL/video12.mp4?raw=true",
+      "voice_url":"https://github.com/prankcallhub/konten/blob/main/LANA%20RHOADES%20VIDEO%20CALL/lana.MP3?raw=true"
+       }
   ] 
 }
 
