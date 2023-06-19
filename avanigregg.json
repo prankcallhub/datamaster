@@ -1,308 +1,178 @@
 {
-  "Ads": [
-      {
-     "select_main_ads": "APPLOVIN-M",
-      "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "",
-      "main_ads_intertitial":"",
-      "main_ads_natives":"",
-      "main_ads_rewards":"",
-      "backup_ads_natives":"b143ad102d7200d4",
-      "backup_ads_banner":"3cab1f6db9794ab1",
-      "backup_ads_intertitial":"95f2fb751da79e7e",
-      "backup_ads_rewards":"40348e8d6889dd21",
-      "open_ads_admob":"",
-      "open_ads_alien":"",
-      "switch_open_ads":"1",
-      "switch_banner_natives_ads":"",
-      "interval_intertitial": 2,
-      "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"",
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
-      "status_app": "0",
-      "link_redirect": "https://"
-      }
-   ],
-  "More":
-  [
+  "apps": [
     {
-      "id":1,
-      "title":"Leonardo DiCaprio Fake Call",
-      "image":"https://play-lh.googleusercontent.com/oc-nNqtkkr7H03m8PjNHeKqCT-Oh0GtyldjDzmQZt21ahZhfJsRQekvVM4PNemj8Fw4=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.prankcallmaster.leonardodigaprio"
-    },{
-      "id":1,
-      "title":"Gavin Magnus Fake Video Call",
-      "image":"https://play-lh.googleusercontent.com/24e-7ECnY4eaotAxCLJz5yl-oYiFaq5z5QVxGU6Bi-N40D0ipu5Nau_z4mVJrRaKcQ0o=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.prankcallmaster.gavinmagnus"
-    },{
-      "id":1,
-      "title":"Diego Velazquez FakeVideoCall",
-      "image":"https://play-lh.googleusercontent.com/sxtbVwBNICyZ6u68asenpQd5yHNmo0zZNmuYH18W7PD4PbKavBuQMi2dfMqcKVVTMyiE=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.prankcallmaster.diegovelazquez"
-    },{
-      "id":1,
-      "title":"Emily Dobson Fake Video Call",
-      "image":"https://play-lh.googleusercontent.com/-1YZrMe44udcrW7CYsw2PlXCA1VUi8e1RfWf9cSwAtfazogmOWZ4XUac9j4bNCLh4Yc=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.prankcallmaster.emilydobson"
-    },{
-      "id":1,
-      "title":"Charli D'Amelio Video Call you",
-      "image":"https://play-lh.googleusercontent.com/h08dVXWZDl5OPHh3nZSe8BHD3qKru8NzHMC3XQlJqxQ_oKauRPbP9wob4eqiAh3l1nM=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.prankcallmaster.charlidamelio"
-    },{
-      "id":1,
-      "title":"Lily-Rose Depp Video Cal Prank",
-      "image":"https://play-lh.googleusercontent.com/BWzl8MwHzgGp5TYTYBcTw01-K-3WVfj2xVIlhjJ15a6LzZRyBANQvKD0E9pr9qRblaY=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.prankcallmaster.lilyrosedepp"
-    },{
-      "id":1,
-      "title":"Kim Kardashian Fake Call",
-      "image":"https://play-lh.googleusercontent.com/WyYgKhe83NjvvO4-NFO10CQcEWJ2XsU3bs0EJNS75xEBDZbBPCR59KtjK2pxFsHPImA7=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.prankcallmaster.kimkardashian"
-    },{
-      "id":1,
-      "title":"JoJo Siwa Prank Video Call",
-      "image":"https://play-lh.googleusercontent.com/Xitlgqb73aJG8o7C3067JZ5gtQJuQs_ltdg3owIaJ5FIqXXSeTnQqxKfvffLWOKFLYM=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.prankcallmaster.jojosiwa"
-    },{
-      "id":1,
-      "title":"Logan Paul Fake Call Prank",
-      "image":"https://play-lh.googleusercontent.com/r-ctMl_yVryogrM0wqK5TZgM4vur_RoEFFg5B-t7KkDZS-FiUImSL9rbsc0uz7qjVHA1=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.prankcallmaster.loganpaul"
-    },{
-      "id":1,
-      "title":"IShowSpeed Fake Video Call",
-      "image":"https://play-lh.googleusercontent.com/pOJLZQobqnbeENqpvEJ35M2oKD-x9fAB4UMG6m62fmOkG0zBDGpggF0WgQrP4ancGA=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.prankcallmaster.ishowspeed"
-    },{
-      "id":1,
-      "title":"Ellie Zeiler Fake Call",
-      "image":"https://play-lh.googleusercontent.com/RizkVy0_52yKuEujwqwB-cleI_-7q5SJz-h9YTYYcQ-7dupESowkGhOVZEBExD9cEg=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.prankcallmaster.elliezeiler"
-    },{
-      "id":1,
-      "title":"MrBeast Fake Video Call Prank",
-      "image":"https://play-lh.googleusercontent.com/cWEtbWDW2NXKbngxIagx8GXy5aRMBfCNQ0mALhm9CCM9W_foas6_11MQk1yhAO2CqlhF=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.prankcallmaster.mrbeast"
-    },{
-      "id":1,
-      "title":"Kylie Jenner Fake Video Call",
-      "image":"https://play-lh.googleusercontent.com/T_xNkXlWzsxQgWsdVViNxn4a41Yf6IHcKz3kbBDzPVfIN7XRhgDzjuceHkjiKFWgsw=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.prankcallmaster.kyliejenner"
-    },{
-      "id":1,
-      "title":"Bella Poarch Fake Call Prank",
-      "image":"https://play-lh.googleusercontent.com/cfWvlfxjF9c9-uIQkHMab4Ov3io8pVnN23jOiOCv7Cu_sik-KKnry81GHFLLz23Y6H0=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.prankcallmaster.bellapoarch"
-    },{
-      "id":1,
-      "title":"Indiana Masara Fake Video Call",
-      "image":"https://play-lh.googleusercontent.com/QmpFeU1rp7u3pr56y9Dj4vct8UIcYlKCXt2LArBRmgQN9FKBH4a6XF_iwz9fRAZ_Mes=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.prankcallmaster.indianamassara"
-    },{
-      "id":1,
-      "title":"Jake Paul Fake Video Call",
-      "image":"https://play-lh.googleusercontent.com/7LZHMmttzhdsYlTRFppnZLu_JmD93EodCAS2rZJ75Wz4uP18oAhfDHSp0Atebs1pUF0=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.prankcallmaster.jakepaul"
-    },{
-      "id":1,
-      "title":"Noah Beck Fake Video Call",
-      "image":"https://play-lh.googleusercontent.com/PTIU45OBTlb871KkyiEGYGcqd85NDqJ8F8c1YkN-JPQmCWMX8hODFOtaJHpkEtVkWGM=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.prankcallmaster.noahbeck"
-    },{
-      "id":1,
-      "title":"Ja Morant Fake Call Prank",
-      "image":"https://play-lh.googleusercontent.com/32kcPgjta4xqixDDQK2axT12LjEf3Gwf3vlErhyVfHIF2v7ZkuD7thQBr-ie-dMmoiD2=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.prankcallmaster.jamorant"
-    },{
-      "id":1,
-      "title":"Rebecca Zamolo Fake Call",
-      "image":"https://play-lh.googleusercontent.com/podtZXhhuhZll1GseMuQlfik6P0S0JTtYHTzDj7xzHv1yxU_hjnFiD2GVpdKrwAQf1M=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.prankcallmaster.rebeccazamolo"
-    },{
-      "id":1,
-      "title":"Lele Pons Video Call - Prank",
-      "image":"https://play-lh.googleusercontent.com/331CzpDQDNEDpikIqWxTr6uliU-u9bQNhDt8ssa7GCuP6jrl4GoFVRuMxltRWgLe5jM=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.prankcallmaster.lelepons"
-    },{
-      "id":1,
-      "title":"Kit Connor Fake Video Call",
-      "image":"https://play-lh.googleusercontent.com/ZGTDPgLkxaiO5sWWN_hepJAbWa2dcXuGBjfR3OxqrlbiXZibHl76Ht_FoAFGfIzncQ=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.prankcallmaster.kitconnor"
-    },{
-      "id":1,
-      "title":"Tony Lopez Fake Video Prank",
-      "image":"https://play-lh.googleusercontent.com/kCf8frH4LpNrPp6OWkskiSMPJZVZj8MsEu--dUCfpjTz2nTqaD0Ss4I112xgf3IAcw=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.prankcallmaster.tonylopez"
-    },{
-      "id":1,
-      "title":"Josh Richards Fake Video Call",
-      "image":"https://play-lh.googleusercontent.com/b8d-UHl-7_kwHkknm0JOcK_A2vGSHEVpZAD016VU3r4Tb8lKfnjRWJDRNeAhkZerFw=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.prankcallmaster.joshrichards"
-    },{
-      "id":1,
-      "title":"Bryce Hall Fake Video Call",
-      "image":"https://play-lh.googleusercontent.com/hSnrcljlQd6uHVlU32JCIDwHT6cdYY5T-mawH9acla9f250xmFLEwbVcKY5-dA--Ooc=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.prankcallmaster.brycehall"
-    },{
-      "id":1,
-      "title":"Brent Rivera Fake Video Call",
-      "image":"https://play-lh.googleusercontent.com/xlI_2-mb0bArpcOsGRhPhc4W8pg4oDa6MH2fZ1Mafk_jjkyiBFsIr30LRA5vYmTQ7AY=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.prankcallmaster.brentrivera"
-    },{
-      "id":1,
-      "title":"Addison Riecke Fake Call",
-      "image":"https://play-lh.googleusercontent.com/gsTD9tjKob5lUI0r8GRUezyc9buUIUlL6SIoC6-3vZBNuezFEseUGVuTGecZTu0TZQg=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.prankcallmaster.addisonriecke"
-    },{
-      "id":1,
-      "title":"Kendall Jenner Fake Video Call",
-      "image":"https://play-lh.googleusercontent.com/TxM98YAonWzBSxDvLuFEbYwc6Mw6olEKWqdpAOeouzUDCCqVD8Ab6qkg61wX6a9FRG4=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.prankcallmaster.kendalljenner"
-    },{
-      "id":1,
-      "title":"Maya Le Clark Video Call Prank",
-      "image":"https://play-lh.googleusercontent.com/zlRHAWZupNxaxLQS2sCed_KM6zPAWFTsZIPObkysY3ULIjS9GTXU1UqWgrVLpDwOLks=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.prankcallmaster.mayaleclark"
-    },{
-      "id":1,
-      "title":"Dixie D'Amelio Fake Video Call",
-      "image":"https://play-lh.googleusercontent.com/yCSHih9ZX_A3Y6--RfTfHW5NFgmHliANgOkLiP4hw6dQD2m3kSmLg5W6KR2iEoqhgJiR=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.prankcallmaster.dixiedamelio"
-    },{
-      "id":1,
-      "title":"Hayley LeBlanc Prank Fake Call",
-      "image":"https://play-lh.googleusercontent.com/FcgQ3kDXgtag6R2v2JFKfMYn_-90iitlkbeLPygIh6ENEG7xCNn7rigimRgLl2uwO9Q=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.prankcallmaster.hayleyleblanc"
-    },{
-      "id":1,
-      "title":"Payton Moormeier Fake Call",
-      "image":"https://play-lh.googleusercontent.com/k7sqPC8oFTZSSHeRolj2gGw0X8LZmMk9YNKflCA5SDOM60ArMW3b5gTi-lFFi9Prgg=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.prankcallmaster.paytonmoormeier"
-    },{
-      "id":1,
-      "title":"Tyler The Creator Video Call",
-      "image":"https://play-lh.googleusercontent.com/mcjiihcOQ8dJ_vzFo8o5UXZAoeO6iJLHmlgfkgNbN9JU8kEnjtqFfps0iybQkKBJyE0=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.prankcallmaster.tylerthecreator"
-    },{
-      "id":1,
-      "title":"RonaldOMG Fake Video Call",
-      "image":"https://play-lh.googleusercontent.com/hEzOir0bUi1Kv_2a-jj4DQg6hHyuUMtw3JPravPbVi30Xfh35bZBoo-lrEzoMIbTGnqF=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.prankcallmaster.ronaldomg"
-    },{
-      "id":1,
-      "title":"Chance The Rapper Fake Call",
-      "image":"https://play-lh.googleusercontent.com/H6w71JH9E70oQakbEe2q8FImcdGLZJd4KMx0aMdbjiO6sVQUeBfUx_n8ZG800aD8GazZ=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.prankcallmaster.chancetherapper"
-    },{
-      "id":1,
-      "title":"Avani Gregg Fake Call & Chat",
-      "image":"https://play-lh.googleusercontent.com/497WnEQTZvl0Nw200gd484a7VLyHuzxgyp_HqjYJnLkUr_cFh7p0N-KS_bnexTn8dQ=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.prankcallmaster.avanigregg"
-    },{
-      "id":1,
-      "title":"Famouswooda Fake Video Call",
-      "image":"https://play-lh.googleusercontent.com/sBvpzXjn-Bu5TTsuKyrw0TwRQgn4rYUL1UMAPqauXyEGIZFJTLeVW0675AdOYI6W2dY=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.prankcallmaster.famouswooda"
-    },{
-      "id":1,
-      "title":"Avril Lavigne Fake Video Call",
-      "image":"https://play-lh.googleusercontent.com/DjtYS7q_RGaJxH6i-uuMqoPSFQXMCQ-E3h-iaJq8BTH0Ks3XXFfhXUWfgWRViF1JS_Y=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.prankcallmaster.avrillavigne"
-    },{
-      "id":1,
-      "title":"Gigi Hadid Fake Video Call",
-      "image":"https://play-lh.googleusercontent.com/jV2L_Vw8xp5uY-4ZpEi0NGJRoJ0NLtjhyvx7C5o5lvOt1OCjxonCBi1tgWMZuEpJAg=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.prankcallmaster.gigihadid"
-    },{
-      "id":1,
-      "title":"Billie Eilish Fake Video Call",
-      "image":"https://play-lh.googleusercontent.com/WwiEQie-74Sa4rcaOGspBdZxWJOJ3zLAFMS9eBul6jTU19KsYLcYpw235YMc9fria7M=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.prankcallmaster.billieeilish"
-    },{
-      "id":1,
-      "title":"PewDiePie Fake Video Call",
-      "image":"https://play-lh.googleusercontent.com/ajoaD9WW7tQBpgNAbVR06_3n9Vol-yPw6U6piVT9q3tq0jf3eqS45F9ul3OwbwPFGoY=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.prankcallmaster.pewdiepie"
-    },{
-      "id":1,
-      "title":"Lexi Rivera Fake Call & Chat",
-      "image":"https://play-lh.googleusercontent.com/k4giBcNyLp2j_82G77LhWpfDodVyJXyGtCAxwXEUj195ww5rJeH9nP-qqpzU6rMofw=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.prankcallmaster.lexirivera"
-    },{
-      "id":1,
-      "title":"SSSniperWolf Fake Video Call",
-      "image":"https://play-lh.googleusercontent.com/koO8qevNqqJn1OU54FbvWGO8uI2I0mxcRry1XxVqegUk6zOPyxkvZega-CBAzZHCOIw=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.prankcallmaster.sssniperwolf"
-    },{
-      "id":1,
-      "title":"Nessa Barrett Fake Call",
-      "image":"https://play-lh.googleusercontent.com/jJJithNoAa7g2C_5n6d7VmUAIfd4wwIgTRfhWjv_PFnUUNSF8AgZlCjP_D-Vrxkbd17l=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.prankcallmaster.nessabarrett"
-    },{
-      "id":1,
-      "title":"Addison Rae Fake Video Call",
-      "image":"https://play-lh.googleusercontent.com/kJpOx7thUB5aCyOA5gpqZ_WfWUrnTaR9srY5GzuI5_5IWjkgINQJsYPBkr4lBDI9Les=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.prankcallmaster.addisonrae"
-    },{
-      "id":1,
-      "title":"Lana Rhoades Video Call ForYou",
-      "image":"https://play-lh.googleusercontent.com/Us1elUjKWU6ZldPgXmCmtBArKG2-ENxnXH3Mr26NfakABytz8nDOnZLVHOQaEqGOPQ=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.prankcallmaster.lanarhoades"
-    },{
-      "id":1,
-      "title":"Mads Lewis Fake video Call",
-      "image":"https://play-lh.googleusercontent.com/QAlS6qY6z6lk-qagxmW9jdTQknUaKGsXtwDINSqT0bRpjosp3Do5iKW2JD155QFndg=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.prankcallmaster.madslewiscom.prankcall.videocall"
-    },{
-      "id":1,
-      "title":"Coco Quinn Video Call Prank",
-      "image":"https://play-lh.googleusercontent.com/eKnt91YavMtJsB_eZMWGE9mThsRkrbxXHa0y9OM27xVNBXYAVZV1OlOqW3MJyM8RSw=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.prankcallmaster.cocoquinn"
-    },{
-      "id":1,
-      "title":"Piper Rockelle Fake Video Call",
-      "image":"https://play-lh.googleusercontent.com/TOYw-nEvlg0B5l5HodHwsXTRxMLzmt7FvBLKBX410WdSyZNWeVgHrKA26KwPXjmvS2w=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.prankcallmaster.piperrockelle"
+      "status": 1,
+      "redirect_url": "",
+      "privacy_policy_url": "https://pinjolandalankilat.blogspot.com/",
+      "email_feedback_and_report": "",
+      "webview_cache": true,
+      "post_list_in_large_style": false,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": true,
+      "show_post_detail_category": true,
+      "show_related_posts": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_app_protection": false,
+      "enable_dark_mode_as_default_theme": false,
+      "youtube_api_key": "",
+      "base64_license_key": ""
     }
   ],
-  "Item":
-  [
-      {
-      "id":1,
-      "name":"AvaniGregg❤️",
-      "image_url":"https://raw.githubusercontent.com/prankcallhub/42.avanigreggfakecallchat/3041970e505306493d01fb9e6dbe36c444aed217/42.avanigreggfakecallchat/HALU%201.png",
-      "video_url":"https://github.com/prankcallhub/42.avanigreggfakecallchat/blob/main/42.avanigreggfakecallchat/HALU%201.mkv?raw=true",
-      "voice_url":"https://github.com/prankcallhub/42.avanigreggfakecallchat/blob/main/42.avanigreggfakecallchat/HALU%201.MP3?raw=true"
-    },{
-      "id":1,
-      "name":"AvaniGregg❤️",
-      "image_url":"https://raw.githubusercontent.com/prankcallhub/42.avanigreggfakecallchat/3041970e505306493d01fb9e6dbe36c444aed217/42.avanigreggfakecallchat/HALU%202.png",
-      "video_url":"https://github.com/prankcallhub/42.avanigreggfakecallchat/blob/main/42.avanigreggfakecallchat/HALU%202.mkv?raw=true",
-      "voice_url":"https://github.com/prankcallhub/42.avanigreggfakecallchat/blob/main/42.avanigreggfakecallchat/HALU%201.MP3?raw=true"
-    },{
-      "id":1,
-      "name":"AvaniGregg❤️",
-      "image_url":"https://raw.githubusercontent.com/prankcallhub/42.avanigreggfakecallchat/3041970e505306493d01fb9e6dbe36c444aed217/42.avanigreggfakecallchat/HALU%203.png",
-      "video_url":"https://github.com/prankcallhub/42.avanigreggfakecallchat/blob/main/42.avanigreggfakecallchat/HALU%203.mkv?raw=true",
-      "voice_url":"https://github.com/prankcallhub/42.avanigreggfakecallchat/blob/main/42.avanigreggfakecallchat/HALU%201.MP3?raw=true"
-    },{
-      "id":1,
-      "name":"AvaniGregg❤️",
-      "image_url":"https://raw.githubusercontent.com/prankcallhub/42.avanigreggfakecallchat/3041970e505306493d01fb9e6dbe36c444aed217/42.avanigreggfakecallchat/HALU%204.png",
-      "video_url":"https://github.com/prankcallhub/42.avanigreggfakecallchat/blob/main/42.avanigreggfakecallchat/HALU%204.mkv?raw=true",
-      "voice_url":"https://github.com/prankcallhub/42.avanigreggfakecallchat/blob/main/42.avanigreggfakecallchat/HALU%201.MP3?raw=true"
-    },{
-      "id":1,
-      "name":"AvaniGregg❤️",
-      "image_url":"https://raw.githubusercontent.com/prankcallhub/42.avanigreggfakecallchat/3041970e505306493d01fb9e6dbe36c444aed217/42.avanigreggfakecallchat/HALU%205.png",
-      "video_url":"https://github.com/prankcallhub/42.avanigreggfakecallchat/blob/main/42.avanigreggfakecallchat/HALU%205.mkv?raw=true",
-      "voice_url":"https://github.com/prankcallhub/42.avanigreggfakecallchat/blob/main/42.avanigreggfakecallchat/HALU%201.MP3?raw=true"
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ad": "fan",
+      "backup_ad": "none",
+      "admob_banner_unit_id": "0",
+      "admob_interstitial_unit_id": "0",
+      "admob_native_unit_id": "0",
+      "admob_app_open_unit_id": "0",
+      "ad_manager_banner_unit_id": "0",
+      "ad_manager_interstitial_unit_id": "0",
+      "ad_manager_native_unit_id": "0",
+      "ad_manager_app_open_unit_id": "0",
+      "fan_banner_unit_id": "0",
+      "fan_interstitial_unit_id": "0",
+      "fan_native_unit_id": "0",
+      "startapp_app_id": "0",
+      "unity_game_id": "0",
+      "unity_banner_placement_id": "0",
+      "unity_interstitial_placement_id": "0",
+      "applovin_banner_unit_id": "d31908f1c0fbb96c",
+      "applovin_interstitial_unit_id": "acc6c5f52857ddbe",
+      "applovin_native_manual_unit_id": "b143ad102d7200d4",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "0",
+      "ironsource_banner_id": "0",
+      "ironsource_interstitial_id": "0",
+      "interstitial_ad_interval": 2,
+      "native_ad_index": 1,
+      "native_ad_interval": 2,
+      "native_ad_style": "medium",
+      "native_ad_post_details_position": "top",
+      "show_banner_ad_home": true,
+      "show_banner_ad_post_details": true,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_native_ad_post_list": true,
+      "show_native_ad_post_details": true,
+      "show_app_open_ad": true
     }
-  ] 
+  ],
+    "posts": [
+   {
+      "id": 1,
+      "category": "Tutorial",
+      "title": "Pahami Risiko dan Manfaat Pinjaman Online: Panduan Bijak dalam Mengelola Keuangan",
+      "image": "https://assets.jalantikus.com/assets/cache/184/13/userfiles/2023/01/30/Aplikasi-Pinjol-Ilegal-Cepat-Cair-Terbaru-e09f5.jpg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "content": "https://raw.githack.com/prankcallhub/html/main/1.html"
+    } ,{
+      "id": 2,
+      "category": "Tutorial",
+      "title": "Pinjaman Online: Menjaga Keuangan Sehat dengan Bijaksana",
+      "image": "https://i.ibb.co/stbGfDB/3-Cash-Cash-Now.jpg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "content": "https://raw.githack.com/prankcallhub/html/main/2.html"
+    } ,
+    {
+      "id": 3,
+      "category": "Tutorial",
+      "title": "Pinjaman Online: Solusi Cepat atau Perangkap Keuangan",
+      "image": "https://i.ibb.co/pR1rYvg/Kredit-Berlian.jpg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "content": "https://raw.githack.com/prankcallhub/html/main/3.html"
+    } ,{
+      "id": 4,
+      "category": "Tutorial",
+      "title": "Pintar dalam Pinjaman Online: Tips untuk Menghindari Permasalahan Keuangan?",
+      "image": "https://rakyatbenteng.disway.id/upload/32d610cd27fb0c7f296e2379b4094c90.jpeg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "content": "https://raw.githack.com/prankcallhub/html/main/4.html"
+    } ,{
+      "id": 5,
+      "category": "Tutorial",
+      "title": "Pinjaman Online: Mengoptimalkan Potensi atau Terjerat dalam Utang",
+      "image": "https://images.bisnis.com/posts/2023/02/12/1627109/pinjol.jpg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "content": "https://raw.githack.com/prankcallhub/html/main/5.html"
+    } ,{
+      "id": 6,
+      "category": "Tutorial",
+      "title": "Panduan Praktis Menggunakan Pinjaman Online dengan Bijak",
+      "image": "https://images.bisnis.com/posts/2023/03/26/1640607/ilustrasi-pinjaman-online-atau-pinjol.jpg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "content": "https://raw.githack.com/prankcallhub/html/main/6.html"
+    } ,{
+      "id": 7,
+      "category": "Tutorial",
+      "title": "Transparansi dalam Pinjaman Online: Mengetahui Hak dan Kewajiban Anda",
+      "image": "https://jabarekspres.com/wp-content/uploads/2023/01/bobol-pinjol-ilegal.jpg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "content": "https://raw.githack.com/prankcallhub/html/main/7.html"
+    } ,{
+      "id": 8,
+      "category": "Tutorial",
+      "title": "Pinjaman Online: Menjaga Keuangan Keluarga dalam Keseimbangan",
+      "image": "https://www.kupastuntas.co/uploads/posts/ojk-terima-46-pengaduan-pinjol-ilegal-di-lampung-d_20230123131628.jpg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "content": "https://raw.githack.com/prankcallhub/html/main/8.html"
+    } ,{
+      "id": 9,
+      "category": "Tutorial",
+      "title": "Mengelola Pinjaman Online dengan Etika dan Tanggung Jawab",
+      "image": "https://www.kupasonline.com/wp-content/uploads/2023/06/thumb-pinjol-ilegal.jpg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "content": "https://raw.githack.com/prankcallhub/html/main/9.html"
+    } ,{
+      "id": 10,
+      "category": "Tutorial",
+      "title": "Pinjaman Online: Memahami Kontrak dan Persyaratan dengan Seksama",
+      "image": "https://primaradio.co.id/wp-content/uploads/2023/01/aplikasi-pinjaman-online-ilegal.png",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "content": "https://raw.githack.com/prankcallhub/html/main/10.html"
+    } ,{
+      "id": 11,
+      "category": "Tutorial",
+      "title": "Menggunakan Pinjaman Online sebagai Alat Pemenuhan Kebutuhan yang Bertanggung Jawab",
+      "image": "https://primaradio.co.id/wp-content/uploads/2023/01/apk-pinjaman-online-600x401.png",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "content": "https://raw.githack.com/prankcallhub/html/main/11.html"
+    } ,{
+      "id": 12,
+      "category": "Tutorial",
+      "title": "Membangun Kemandirian Keuangan: Alternatif Pinjaman Online",
+      "image": "https://maucash.id/wp-content/uploads/2020/01/pinjaman-online-ilegal-800x400.jpg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "content": "https://raw.githack.com/prankcallhub/html/main/12.html"
+    } ,{
+      "id": 13,
+      "category": "Tutorial",
+      "title": "Pinjaman Online: Mengetahui Fakta-fakta dan Mitos yang Perlu Diketahui",
+      "image": "https://solusinews.id/wp-content/uploads/2021/03/pinjaman-ilegal.jpg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "content": "https://raw.githack.com/prankcallhub/html/main/13.html"
+    } ,{
+      "id": 14,
+      "category": "Tutorial",
+      "title": "Berpikir Jangka Panjang: Mengelola Pinjaman Online dengan Visi Keuangan yang Sehat",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/06/26/3909670737.jpg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "content": "https://raw.githack.com/prankcallhub/html/main/14.html"
+    } ,{
+      "id": 15,
+      "category": "Tutorial",
+      "title": "Pinjaman Online: Strategi untuk Menghindari Terjerat dalam Lingkaran Utang",
+      "image": "https://img.idxchannel.com/media/439/images/idx/2021/10/30/Daftar_Pinjol_Terdaftar_di_OJK.jpg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "content": "https://raw.githack.com/prankcallhub/html/main/15.html"
+    } 
+
+  ]
 }
