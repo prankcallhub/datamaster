@@ -2,7 +2,7 @@
   "apps": [
     {
       "status": 1,
-      "redirect_url": "https://play.google.com/store/apps/details?id=com.prankcallmaster.jamorant",
+      "redirect_url": "",
       "privacy_policy_url": "https://fakecallhub.blogspot.com",
       "email_feedback_and_report": "",
       "webview_cache": true,
@@ -33,9 +33,9 @@
       "ad_manager_interstitial_unit_id": "0",
       "ad_manager_native_unit_id": "0",
       "ad_manager_app_open_unit_id": "0",
-      "fan_banner_unit_id": "0",
-      "fan_interstitial_unit_id": "0",
-      "fan_native_unit_id": "0",
+      "fan_banner_unit_id": "983118946048587_983119002715248",
+      "fan_interstitial_unit_id": "983118946048587_983118999381915",
+      "fan_native_unit_id": "983118946048587_983119006048581",
       "startapp_app_id": "0",
       "unity_game_id": "0",
       "unity_banner_placement_id": "0",
