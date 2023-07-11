@@ -49,7 +49,7 @@
       "ironsource_app_key": "0",
       "ironsource_banner_id": "0",
       "ironsource_interstitial_id": "0",
-      "interstitial_ad_interval": 2,
+      "interstitial_ad_interval": 1,
       "native_ad_index": 1,
       "native_ad_interval": 2,
       "native_ad_style": "medium",
